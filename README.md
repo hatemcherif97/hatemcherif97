@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cherif Hatem</h1>
-<h3 align="center">DevOps Consultant</h3>
+<h1 align="center">Hi 👋, I'm Hatem Cherif</h1>
+<h3 align="center">I'm Hatem Cherif, an AWS Solutions Architect with a passion for crafting robust and scalable cloud solutions</h3>
 
 - 🔭 I’m currently working on **Imiddleware**
 
@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hatemcherif97](https://github.com/hatemcherif97)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **DevOps & Cloud**
 
 - 📫 How to reach me **cherif.hatem97@gmail.com**
 
