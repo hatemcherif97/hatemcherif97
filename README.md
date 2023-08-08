@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Imiddleware**
 
-- 🌱 I’m currently learning **GitOps&ArgoCD**
+- 🌱 I’m currently learning **GitOps & ArgoCD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hatemcherif97](https://github.com/hatemcherif97)
 
